@@ -1,8 +1,10 @@
 #include<stdio.h>
 /**
  *main - Entry point
+ *
  *puts - prints the indicated string
- *Return : Always 0 (Success) 
+ *
+ *Return: 0 if the program is successfull 
 */
 int main(void)
 {
